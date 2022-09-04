@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "codespaces_azure_func_demo": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7228",
-      "launchBrowser": false
-    }
-  }
-}
